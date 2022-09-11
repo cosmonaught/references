@@ -76,10 +76,9 @@ ___
 * What value does OSINT bring to the Web 3.0 space - https://github.com/Ginsberg5150/Web3
 * SOCK Puppets Guide - https://github.com/belouve/osint-resource/blob/main/collected.md#sock-puppets
 * OctoSuite - https://github.com/rly0nheart/octosuite
-* VM List + Free Software - https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/VirtualMachine.md
 * Telegram Phone Number Checker - https://github.com/bellingcat/telegram-phone-number-checker
 * Geowifi - https://github.com/GONZOsint/geowifi
-* 
+
 
 ### Queries and Searches 
 * Shodan Queries - https://github.com/BushidoUK/OSINT-SearchOperators/blob/main/ShodanQueries.csv
@@ -104,8 +103,11 @@ ___
 * Jupyter Threat Modeling - https://github.com/P3tra-WP/Jupyter-Threat/
 * Intel Architecture Mind Map - https://github.com/Errum/IntelArchitectureMap
 * AMITT Disinformation Tactics, Techniques and Processes (TTP) Framework - https://github.com/cogsec-collaborative/AMITT
-* Flare VM - https://github.com/mandiant/flare-vm
 
+### VMs
+* Flare VM - https://github.com/mandiant/flare-vm
+* TraceLabs OSINT VM - https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
+* VM List + Free Software - https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/VirtualMachine.md
 ___
 
 ## Other Reference Pages 
