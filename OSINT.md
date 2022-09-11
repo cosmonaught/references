@@ -31,7 +31,7 @@ OSINT GitHub References - https://github.com/cosmonaught/references/blob/main/Gi
 * OSINTCurio.us - https://osintcurio.us/
 
 
-### How To and Guides 
+### How To, Guides, and Articles
 * Telegram Fundamentals - https://www.cqcore.uk/telegram-fundamentals/
 * Recovering redacted information from pixelated videos - https://positive.security/blog/video-depixelation
 * Beginners Guide to Flight Tracking - https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/
@@ -45,7 +45,10 @@ OSINT GitHub References - https://github.com/cosmonaught/references/blob/main/Gi
 * OSINT 101 (Open Source Intelligence)  - https://ex16x41.com/f/osint-101-open-source-intelligence
 * Guide To Using Reverse Image Search For Investigations - https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/
 * Detecting Motion with OpenCV — Image Analysis for Beginners - https://towardsdatascience.com/image-analysis-for-beginners-creating-a-motion-detector-with-opencv-4ca6faba4b42
-
+* GEOINT Anthology - https://usgif.org/anthology/
+* MITRE attack flow - https://ctid.mitre-engenuity.org/our-work/attack-flow/?_hsmi=217591395&_hsenc=p2ANqtz-_SFYf9x86uZMvuWxTknoZG-XjJiMb6Py4GLala67y83fanoM8lhVnevjQDUGDvJ8Slsws4n4fBwDffEoh6OK_cq3f-CGirPdSKoHanNHsnlNDH2t4
+*  A Top 10 Reading List if You’re Getting Started in Cyber Threat Intelligence - https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798
+*  Interview With Private Investigator, OSINT Specialist, OPSEC Wizard, Surveillance & TSCM Guru, OhShint! - https://thesecuritynoob.com/interviews/interview-with-private-investigator-osint-specialist-opsec-wizard-surveillance-tscm-guru-ohshint/
 
 ### Tools 
 * Alt-Tech Social Search - https://www.osintcombine.com/alt-tech-social-search
@@ -60,3 +63,8 @@ OSINT GitHub References - https://github.com/cosmonaught/references/blob/main/Gi
 * CyberChef - https://gchq.github.io/CyberChef/
 * Atomic Red Team - https://redcanary.com/atomic-red-team/
 * Maltego - https://www.maltego.com/
+* Automated Intel Sharing (US Gov) - https://www.cisa.gov/ais
+* MISP Project - https://www.misp-project.org/
+* Free Tools List - https://vulcan.io/resources/the-best-free-and-open-source-tools-for-cyber-risk-assessment-and-mitigation/
+* Free for Open Source Application Security Tools - https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+* 
