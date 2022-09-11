@@ -1,6 +1,8 @@
 
 ## OSINT Related Resources
 
+OSINT GitHub References - https://github.com/cosmonaught/references/blob/main/GitHub%20Repositories.md#osint
+
 ### Start.me reference pages
 * OSINT Global - Non US  - https://start.me/p/jj2XEr/osint-global-non-us
 * SANS 2022  - https://start.me/p/1kBrw9/sans-osint-2022
