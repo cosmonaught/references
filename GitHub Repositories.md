@@ -78,6 +78,8 @@ ___
 * OctoSuite - https://github.com/rly0nheart/octosuite
 * Telegram Phone Number Checker - https://github.com/bellingcat/telegram-phone-number-checker
 * Geowifi - https://github.com/GONZOsint/geowifi
+* Badflare - https://github.com/LeeBrotherston/badflare
+* 
 
 
 ### Queries and Searches 
@@ -123,4 +125,10 @@ ___
 ## Misc.  Projects 
 * C02 Monitor Respirator - https://github.com/ashumate/CO2-Monitor-Respirator
 * Alternative Frontends - https://github.com/digitalblossom/alternative-frontends
+
+## Learning
+* OSU Computer Science - https://github.com/ossu/computer-science
+* Build Your Own - https://github.com/codecrafters-io/build-your-own-x
+* Tech Interview Handbook - https://github.com/yangshun/tech-interview-handbook 
 * Python Data Science Book - https://jakevdp.github.io/PythonDataScienceHandbook/
+* Full Stack Web Development - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
