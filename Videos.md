@@ -6,3 +6,5 @@
 * 2017 CTI Summit Keynote - CTI Summit Keynote - https://www.youtube.com/watch?v=1h7rLHNXio8
 * The Creepy Line - Full Documentary on Social Media's manipulation of society - https://www.youtube.com/watch?v=0v6KBGr5IzY
 * How to Get Promoted: Developing Metrics to Show How Threat Intel Works - SANS CTI Summit 2019 - https://www.youtube.com/watch?v=-d38C3992aQ
+* OSINT in 5 Hours - https://www.youtube.com/watch?v=qwA6MmbeGNo
+* Jack Rhysider, Give Yourself a Blog for Christmas | KringleCon 2020 - https://www.youtube.com/watch?v=NKHF5VZmCig
